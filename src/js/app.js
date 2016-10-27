@@ -5,7 +5,7 @@ var  App= {
 /**
  * Enrutador de la aplicación
  */
-var app = angular.module('pwfApp', ['ngRoute']);
+var app = angular.module('miApp', ['ngRoute']);
 
 app.config(function ($routeProvider) {
     $routeProvider
